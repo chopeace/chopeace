@@ -14,7 +14,7 @@ LangGraph script agent with a rewrite loop, fact-checking against paper text and
 | --- | --- | --- |
 | [ArXiv NewsBriefing](https://github.com/chopeace/my-news-briefing) | Fine-tuned Qwen2.5-1.5B with QLoRA: 98.9% format compliance, 86/100 LLM-as-a-Judge | QLoRA, GGUF, llama.cpp, [Hugging Face](https://huggingface.co/chopeace/arxiv-newsbriefing-v4.2) |
 | [Course Support Chatbot](https://github.com/chopeace/my-class-bot) | RAG over multi-PDF course material with source attribution | LangChain, FAISS, GPT-4o-mini, Gradio |
-| [My Voice Lab](https://github.com/chopeacekr/my-voice-lab) | 5 TTS + 4 STT models behind 9 microservices, zero-shot voice cloning | XTTS v2, F5-TTS, Whisper, FastAPI |
+| [My Voice Lab](https://github.com/chopeace/my-voice-lab) | 5 TTS + 4 STT models behind 9 microservices, zero-shot voice cloning | XTTS v2, F5-TTS, Whisper, FastAPI |
 
 ### Stack
 
