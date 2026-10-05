@@ -12,6 +12,7 @@ LangGraph script agent with a rewrite loop, fact-checking against paper text and
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
+| [OneTap Notes](https://chopeace.github.io/peace-media/#onetap) (pre-launch, private repo) | Multilingual voice notes on iOS, Android, Wear OS and web; ASR benchmark cut Korean CER from 10.3% to 6.5%; unattended GitHub Actions CI/CD for four platforms | Swift, Kotlin, React/TypeScript, FastAPI, Soniox, Groq |
 | [ArXiv NewsBriefing](https://github.com/chopeace/my-news-briefing) | Fine-tuned Qwen2.5-1.5B with QLoRA: 98.9% format compliance, 86/100 LLM-as-a-Judge | QLoRA, GGUF, llama.cpp, [Hugging Face](https://huggingface.co/chopeace/arxiv-newsbriefing-v4.2) |
 | [Course Support Chatbot](https://github.com/chopeace/my-class-bot) | RAG over multi-PDF course material with source attribution | LangChain, FAISS, GPT-4o-mini, Gradio |
 | [My Voice Lab](https://github.com/chopeace/my-voice-lab) | 5 TTS + 4 STT models behind 9 microservices, zero-shot voice cloning | XTTS v2, F5-TTS, Whisper, FastAPI |
